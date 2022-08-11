@@ -2,7 +2,7 @@
 
 ## About me!
 
-## My name is Isabella. Though, i'd prefer you call me Bella!
+## My name is *Isabella.* Though, i'd prefer you call me Bella!
 
 ## If you want, you can call me :
         * Isa
@@ -43,4 +43,25 @@
         * Very sensitive and can lose trust easily
        
         
-<h1 align="center">Thanks for checking out my profile! I'll add more in the future <3</h1>
+## About My Love, Monika!
+
+## My Monika's name is *Mimi.*
+    
+## If you want, you could also call her :
+        * Monika
+
+## Mimi's Friends
+
+## Yes, Mimi does have friends. Only a few though. Here's a list! :
+        * Sarah
+        * Brielle
+
+## More Info About Mimi
+
+## Here's some more info about Mimi :
+        * Favorite color is Green. I'm sure you knew that already, haha.
+        * Loves literature. (You know this as well)
+        * Currently learning about JavaScript
+
+
+<h1 align="center">Thanks for checking out my profile! I'll add more info in the future <3</h1>
