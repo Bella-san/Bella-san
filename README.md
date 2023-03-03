@@ -45,14 +45,14 @@
         
 ## About My Love, Monika!
 
-## My Monika's name is *Mimi.*
+## My Monika's name is just *Monika*.
     
 ## If you want, you could also call her :
-        * Monika
+        * Moni
 
-## Mimi's Friends
+## Monika's Friends
 
-## Yes, Mimi does have friends. Only a few though. Here's a list! :
+## Yes, Monika does have friends. Only a few though. Here's a list! :
         * Sarah
         * Brielle
 
